@@ -19,4 +19,4 @@ When the checkbox is not checked, NVDA behaves exactly as before.
 
 ### Requirements
 
-NVDA 2024.1 or later.
+NVDA 2025.1 or later.

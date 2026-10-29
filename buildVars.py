@@ -19,12 +19,13 @@ addon_info = AddonInfo(
 	addon_description=_("""Adds a checkbox to the Object presentation category of NVDA settings. When enabled, NVDA reports object position information only once for the objects at the same hierarchical level."""),
 	
 	# version
-	addon_version="1.0",
+	addon_version="1.0.1",
 	
 	# Brief changelog for this version
 	# Translators: what's new content for the add-on version
 	addon_changelog=_("""
-Initial release
+Add several languages (machine tranlated)
+Update compatibility info
 """),
 	
 	# Author(s)
@@ -43,7 +44,7 @@ Initial release
 	addon_minimumNVDAVersion="2025.1.0",
 	
 	# Last NVDA version supported/tested
-	addon_lastTestedNVDAVersion="2026.2.0",
+	addon_lastTestedNVDAVersion="2026.3.0",
 	
 	# Add-on update channel (None denotes stable releases)
 	addon_updateChannel=None,

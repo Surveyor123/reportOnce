@@ -42,5 +42,6 @@ msgstr ""
 #: buildVars.py:26
 msgid ""
 "\n"
-"Initial release\n"
+"Add several languages (machine tranlated)\n"
+"Update compatibility info\n"
 msgstr ""

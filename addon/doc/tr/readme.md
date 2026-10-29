@@ -19,4 +19,4 @@ Onay kutusu işaretli değilse NVDA her zamanki gibi davranır.
 
 ### Gereksinimler
 
-NVDA 2024.1 veya üstü.
+NVDA 2025.1 veya üstü.
